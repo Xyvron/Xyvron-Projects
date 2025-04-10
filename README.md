@@ -13,14 +13,6 @@ We believe AI should not only be smart, but aligned with human purpose.
 
 ---
 
-##  Current Projects
-
-| Project Name               | Description                                                  |
-|----------------------------|--------------------------------------------------------------|
-| [`Bad-Word-Sensor`](./Bad-Word-Sensor)       | Text filter that censors offensive words and stores clean results |
-| [`Multiple-Choice-Quiz`](./Multiple-Choice-Quiz) | Python OOP-based quiz with live feedback and score logging       |
-
----
 
 ##  Tools & Technologies
 - Python 3

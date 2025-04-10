@@ -26,7 +26,7 @@ b
 
 ...
 
-Quiz complete! Name: Xyvron Score: 4/5 Time: 10 April 2025, 13:30
+Quiz complete! Name: Alvara Score: 4/5 Time: 10 April 2025, 13:30
 
 ## 📂 Files
 - `Question.py`: Class that stores the quiz questions

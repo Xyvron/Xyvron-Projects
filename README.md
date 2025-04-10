@@ -25,7 +25,7 @@ We believe AI should not only be smart, but aligned with human purpose.
 
 ##  Connect with Xyvron
 
-- X (Twitter): [@Xyvron](#)
+- X (Twitter): (https://x.com/Xyvron_)(#)
 - GitHub: [github.com/Xyvron](https://github.com/Xyvron)
 - Coming Soon: [xyvron.com](https://xyvron.com)
 
